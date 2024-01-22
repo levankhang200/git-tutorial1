@@ -1,0 +1,261 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.backgourp {
+    margin-left: -39px;
+}
+
+
+.logo-menu {
+    width: 100%;
+    height: 8%;
+    display: flex;
+}
+
+.logo-menu a img {
+    margin-top: 15px;
+    margin-left: 102px;
+    width: 120px;
+}
+
+.menu {
+    margin-left: 811px;
+    margin-top: 18px;
+}
+
+i {
+    color: #aaabac;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    margin-top: 8px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 19px;
+}
+
+
+.menu ul li button {
+    width: 75px;
+    height: 37px;
+    border-radius: 9px;
+    border: 1px;
+}
+
+.headline {
+    margin-left: 100px;
+    margin-top: 123px;
+}
+
+.headline h1 {
+    font-weight: 600;
+    font-size: 66px;
+}
+
+.headline p {
+    margin-top: 30px;
+    font-size: 22px ;
+}
+
+.button {
+    margin-left: 100px;
+    margin-top: 49px;
+}
+
+.button button {
+    width: 113px;
+    height: 45px;
+    border-radius: 12px;
+    border: 1px;
+    background: #4891FF;
+    color: white;
+    font-size: 13px;
+}
+
+.button1 {
+    margin-top: -46px;
+    margin-left: 246px;
+}
+
+.button1 button {
+    width: 113px;
+    height: 45px;
+    border-radius: 12px;
+    border: 1px;
+    font-size: 13px;
+}
+
+.img {
+    margin-top: 68px;
+    margin-left: 97px;
+}
+
+.img img {
+    width: 677px;
+}
+
+.img1 {
+    text-align: center;
+    margin-top: -517px;
+    margin-left: 752px;
+}
+
+.img1 img {
+    width: 680px;
+}
+
+.footer {
+    background: #1b1717;
+    width: 100%;
+    height: 420px;
+    margin-top: 60px;
+    display: flex;
+}
+
+.Logo a img {
+    margin-left: 159px;
+    padding-top: 120px;
+}
+
+.footer1 h1 {
+    color: #586165;
+    font-size: 18px;
+}
+
+.footer1 p {
+    color: #586165;
+    font-size: 16px;
+    padding-top: 12px;
+}
+
+.footer2 {
+    margin-left: 150px;
+    margin-top: 120px;
+}
+
+.footer2 h2 {
+    color: #586165;
+    font-size: 18px;
+}
+
+.footer2 a {
+    color: #586165;
+}
+
+.footer2 p {
+    color: #586165;
+    font-size: 16px;
+    padding-top: 12px;
+}
+
+.footer3 {
+    margin-left: 150px;
+    margin-top: 120px;
+}
+
+.footer3 h3 {
+    color: white;
+    font-size: 18px;
+}
+
+.footer3 a {
+    color: white;
+}
+
+.footer3 p {
+    color: white;
+    font-size: 16px;
+    padding-top: 12px;
+}
+
+
+.footer4 {
+    margin-left: 150px;
+    margin-top: 120px;
+}
+
+.footer4 h4 {
+    color: white;
+    font-size: 18px;
+}
+
+.footer4 a {
+    text-decoration: none;
+}
+
+.footer4 p {
+    color: white;
+    font-size: 16px;
+    padding-top: 12px;
+}
+
+.footer5 {
+    margin-left: 150px;
+    margin-top: 120px;
+}
+
+.footer5 h4  {
+    color: white;
+    font-size: 18px;
+}
+
+.footer5 a {
+    text-decoration: none;
+}
+
+.footer5 p {
+    color: white;
+    font-size: 16px;
+    padding-top: 12px;
+}
+
+.kho_footer {
+    display: flex;
+    margin-left: 224px;
+    margin-left: 158px;
+}
+
+.footer img {
+    margin-top: 15px;
+    margin-left: 102px;
+    width: 120px;
+}
+
+.Nst img {
+    margin-top: 148px;
+    margin-left: -120px;
+    width: 333px;
+    border-radius: 17px;
+}
+
+.footer.icon i {
+    margin-top: 339px;
+}
+
+.icon i {
+    margin-top: 335px;
+    margin-left: -300px;
+}
+
+.icon1 i {
+    margin-top: 335px;
+    margin-left: -331px;
+}
+
+.contents p {
+    margin-top: 388px;
+    margin-left: -331px;
+    color: #aaaaaa;
+}
+

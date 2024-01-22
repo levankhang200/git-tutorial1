@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.Testimonials {
+    width: 1488px;
+    height: 736px;
+    background: black;
+}
+
+
+.Heading {
+    margin-left: 114px;
+    padding-top: 70px;
+}
+.Heading h1 {
+    color: white;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.kho_Testimonials {
+    display: flex;
+    padding-left: 89px;
+}
+
+.Testimonials1 {
+    padding-left: 28px;
+    padding-top: 41px;
+}
+
+.Testimonials1 img {
+    width: 367px;
+    border-radius: 15px;    
+}
+
+.Testimonials2 {
+    padding-left: 65px;
+    padding-top: 41px;
+}
+
+.Testimonials2 img {
+    width: 367px;
+    border-radius: 15px;    
+}
+
+.Testimonials3 {
+    padding-left: 65px;
+    padding-top: 41px;
+}
+
+.Testimonials3 img {
+    width: 367px;
+    border-radius: 15px;    
+}
+
+.Testimonials4 {
+    padding-left: 65px;
+    padding-top: 41px;
+}
+
+.Testimonials4 img {
+    width: 90px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;   
+}
