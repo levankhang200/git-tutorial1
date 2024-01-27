@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+p {
+    color: brown;
+}
+
+.tieu_de {
+    color: rgb(226, 168, 43);
+    font-size: 20px;
+}
+
+center {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+img {  
+    width: 329px;
+    height: 400px;
+}
+
+#Khang {
+    color: blue;
+}
+
+
+.adss {
+    color: aquamarine;
+}

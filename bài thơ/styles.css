@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+title {
+    color: blue;
+}
+
+h1 {
+    color: green;
+}
+
+strong {
+    color: red;
+}
+
+.khang strong {
+    color: orange;
+}
+
+
