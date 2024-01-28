@@ -17,7 +17,7 @@ body, html {
   }
   
   .left-side, .right-side {
-    height: 118%;
+    height: 130%;
   }
   
   .left-side {
@@ -186,4 +186,26 @@ form label {
   margin-left: -443px;
   margin-top: 39px;
   height: 92%;
+}
+
+.input_file {
+  border: 1px dashed var(--Input-text, #8E8E8E);
+  display: flex;
+  width: 48%;
+  padding: 64px 16px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.input_file img {
+  width: 12%;
+}
+
+.right-side iframe {
+  width: 206%;
+  height: 95%;
+  margin-left: -439px;
+  margin-top: 22px;
 }
