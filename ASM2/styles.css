@@ -1,0 +1,371 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    font-family: "Caladea", serif;
+}
+
+
+.ASM2 img {
+    width: 64%;
+    margin-left: 205px;
+}
+.head {
+    display: flex;
+    margin-top: -28%;
+    margin-left: -5%;
+}
+
+.head img {
+    width: 10%;
+    height: 10%;
+}
+
+.head ul {
+    list-style: none;
+    display: flex;
+    margin-left: 56px;
+}
+
+.head ul li a {
+    text-decoration: none;
+    padding-left: 60px;
+    color: black;
+    font-weight: 500;
+    font-family: Inter;
+}
+
+.head ul li {
+    margin-bottom: 10px;
+}
+
+.button {
+    margin-left: 9%;
+    margin-top: -11px   ;
+}
+
+
+.button button {
+    border: none;
+    background: white;
+    color: #55557A;
+    font-weight: 600;
+    font-family: Inter;
+}
+
+.Container {
+    text-align: center;
+    padding-top: 156px;
+}
+
+.Container span {
+    font-size: 73px;
+    font-weight: 800;
+}
+
+.Container p {
+    font-size: 22px;
+    font-family: 'Inter';
+    font-weight: 400;
+    padding-top: 55px;
+    color: #7E7EAA;
+}
+
+.card {
+    width: 25%;
+    box-shadow: 0 4px 8px 0 #00000052;
+    margin-left: 7%;
+    border-radius: 7%;
+    height: 434px;
+    background: white;
+}
+
+.card img {
+    border-radius: 7.9% 7.9% 0 0;
+}
+
+.card .icon {
+    display: flex;
+    margin-top: 14px;
+}
+
+.card .icon img {
+    width: 6%;
+    height: 22px;
+    margin-left: 2%;
+}
+
+.card .icon p {
+    font-family: 'Inter';
+    font-size: 14px;
+    margin-left: 12px;
+    margin-top: 4px;
+}
+
+.card .conter {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 23px;
+    font-size: 20px;
+}
+
+.card hr {
+    width: 89%;
+    margin-left: 15px;
+    margin-top: 26px;
+}
+
+.card .button1 {
+    display: flex;
+    margin-top: 26px;
+}
+
+
+.card .button1 img {
+    width: 10%;
+    margin-left: 13px;
+}
+
+.card .button1 span {
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 12px;
+    font-family: 'Inter';
+    margin-top: 3px;
+}
+
+.card .button1 p {
+    margin-top: 22px;
+    font-size: 11px;
+    margin-left: -91px;
+    font-family: 'Inter';
+}
+
+.card .button1 button {
+    margin-left: 23%;
+    padding: 0px 29px;
+    border-radius: 33px;
+    border: 1px;
+    background: #24D198;
+    font-family: 'Inter';
+    color: white;
+}
+
+.Cards {
+    display: flex;
+    margin-top: 12%;
+}
+
+.content_card {
+    background: #e2e2e24d;
+    margin-top: 26%;
+    height: 1397px;
+    border-radius: 0 69px 0 69px;
+}
+
+.content_card .content1 {
+    font-size: 41px;
+    font-weight: 600;
+    padding-top: 81px;
+    margin-left: 102px;
+}
+
+.content_card .content1 span b {
+    color: #7F56D9;
+}
+
+.content_card .content1 p {
+    font-family: 'Inter';
+    font-size: 20px;
+    color: #7E7EAA;
+    padding-top: 29px;
+}
+
+.review_item {
+    background: #F6F6FC;
+    border-radius: 0 69px 0 69px;
+    margin-top: 60%;
+    height: 700px;
+}
+
+.review_item .content {
+    text-align: center;
+    padding-top: 8%;
+}
+
+.review_item .content span {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 55px;
+}
+
+.review_item .content p {
+    font-size: 25px;
+    font-family: 'Inter';
+    font-weight: 500;
+    line-height: 109px;
+    color: #7E7EAA;
+}
+
+.review_item .comments_section {
+    width: 22%;
+    box-shadow: 0 4px 8px 0 #0000003d;
+    background: white;
+    border-radius: 20px;
+    height: 211px;
+    margin-left: 5%;
+}
+
+.review_item .img1 {
+    display: flex;
+}
+
+.review_item .img1 img {
+    width: 13%;
+    margin-left: 7%;
+    padding-top: 27px;
+}
+
+.review_item .img1 span {
+    margin-left: 7%;
+    padding-top: 40px;
+    font-weight: 600;
+}
+
+.review_item .comments_section p {
+    font-family: 'Inter';
+    font-size: 12px;
+    margin-left: 7%;
+    padding-top: 16px;
+    color: #7E7EAA;
+    font-weight: 400;
+}
+
+.review_item .review_comments {
+    display: flex;
+    margin-left: 13%;
+    padding-top: 40px;
+}
+
+.Footer {
+    background: #7F56D9;
+    background: #865AEF;
+    display: flex;
+    height: 550px;
+}
+
+.logo {
+    margin-left: 17%;
+    padding-top: 8%;
+}
+
+.logo img {
+    width: 30%;
+}
+
+.logo p {
+    color: white;
+    font-family: 'Inter';
+    font-size: 10px;
+    padding-top: 20px;
+    line-height: 16px;
+    font-weight: 300;
+}
+
+.Quick_Links ul li a {
+    text-decoration: none;
+    color: #F6F6FC;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.Quick_Links ul li {
+    list-style: none;
+}
+
+.Quick_Links {
+    padding-top: 125px;
+    margin-left: -19%;
+}
+
+.Quick_Links span {
+    font-family: 'Caladea';
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.Quick_Links ul {
+    padding-top: 25px;
+}
+
+
+.Contact_us ul li a {
+    text-decoration: none;
+    color: #F6F6FC;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.Contact_us ul li {
+    list-style: none;
+}
+
+.Contact_us {
+    padding-top: 125px;
+    margin-left: 7%;
+}
+
+.Contact_us span {
+    font-family: 'Caladea';
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.Contact_us ul {
+    padding-top: 25px;
+    padding-left: 2px;
+}
+
+.Contact_us ul li a svg {
+    width: 4%;
+}
+
+.Footer ul li {
+    list-style: none;
+}
+
+.Footer ul li a {
+    color: #F6F6FC;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.Copyright {
+    display: flex;
+}
+
+.Copyright .icon {
+    display: flex;
+    margin-left: 42%;
+}
+
+
+.Copyright span {
+    font-family: 'Inter';
+    color: white;
+    margin-left: 17%;
+    padding-top: 42px;
+}
+
+.Copyright .icon svg {
+    padding-left: 25px;
+}
